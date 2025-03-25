@@ -1,9 +1,9 @@
 # neural networks from scratch
-Was always curious about how neural network libraries actually work so decided to implement a few neural networks by hand, goes nicely with my ML course in college as well. shoutout my guy karpathy
+Was always curious about how neural network libraries actually work so decided to implement a few neural networks by hand, purely educational, no utility. shoutout my guy karpathy
 
 # Shit I used
 - [Google's guide to machine learning](https://developers.google.com/machine-learning/)
-- [Karpathy's guide](https://karpathy.ai/zero-to-hero.html)
+- [Karpathy's guide](https://karpathy.ai/zero-to-hero.html) (skipped the visualization sections in makemore 3 because I'm lazy)
 - Tom Mitchell's Machine Learning book
 - [Pytorch documentation](https://pytorch.org/docs/stable/torch.html)
 - (https://pytorch.org/docs/stable/notes/broadcasting.html)
